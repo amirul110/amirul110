@@ -9,6 +9,9 @@ Welcome to my GitHub profile!
 ### ⏱️ Weekly Coding Activity (Graph)
 
 ![WakaTime Stats](https://wakatime.com/share/@1b69529a-df99-456d-a518-0aeedffb4c50/120f9531-4577-4e11-ac5c-701936c9678a.svg)
+## ⏱️ WakaTime Coding Activity
+
+![WakaTime Stats](https://wakatime.com/share/@1b69529a-df99-456d-a518-0aeedffb4c50/af1ddb39-1ff4-4883-827a-5fc3d27aae18.svg)
 
 ### 📈 Detailed Breakdown (Languages, Editors, Projects)
 
