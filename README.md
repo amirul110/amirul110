@@ -17,3 +17,18 @@ Welcome to my GitHub profile!
 ### 🧠 Most Used Languages (All Time)
 
 <div align="center">
+  <img src="https://wakatime.com/share/@1b69529a-df99-456d-a518-0aeedffb4c50/af1ddb39-1ff4-4883-827a-5fc3d27aae18.svg" width="70%" alt="WakaTime All-Time Language Stats"/>
+</div>
+
+---
+
+### 📈 Detailed Breakdown (Languages, Editors, Projects)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🟩 GitHub Contribution Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirul110&show_icons=true&theme=default)
