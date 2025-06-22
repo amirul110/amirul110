@@ -14,13 +14,13 @@ Welcome to my GitHub profile!
 
 ---
 
-
+<!--
 ### 🧠 Most Used Languages (All Time)
 
 <div align="center">
   <img src="https://wakatime.com/share/@1b69529a-df99-456d-a518-0aeedffb4c50/120f9531-4577-4e11-ac5c-701936c9678a.svg" width="40%" alt="Most Used Languages" style="max-width: 100%; height: auto;"/>
 </div>
-
+-->
 ---
 
 ### 📈 Detailed Breakdown (Languages, Editors, Projects)
