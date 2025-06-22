@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # update setiap hari
+    - cron: "0 0 * * *"  # Update setiap hari pukul 00:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -12,3 +12,9 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_LANGUAGE: true
+          SHOW_TIME: true
+          SHOW_EDITORS: true
+          SHOW_PROJECTS: true
