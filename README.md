@@ -23,7 +23,6 @@ Welcome to my GitHub profile!
 -->
 ---
 
-### 📈 Detailed Breakdown (Languages, Editors, Projects)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
