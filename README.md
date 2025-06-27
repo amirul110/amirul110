@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 ## 🧠 My GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?amirul110=kikimahesta&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amirul110&theme=react-dark)
 <!--
 ### 🧠 Most Used Languages (All Time)
 
