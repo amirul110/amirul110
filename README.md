@@ -13,6 +13,9 @@ Welcome to my GitHub profile!
 </div>
 
 ---
+## 📊 GitHub Contribution Graph
+
+![Kiki Mahesta's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=amirul110&theme=react-dark&area=true)
 
 <!--
 ### 🧠 Most Used Languages (All Time)
